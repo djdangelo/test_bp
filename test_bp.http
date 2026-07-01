@@ -1,0 +1,6 @@
+@test_bp_HostAddress = http://localhost:5244
+
+GET {{test_bp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

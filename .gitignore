@@ -1,0 +1,22 @@
+# .NET
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.doccache
+.vs/
+appsettings.Development.json
+logs/
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
+.vscode/
+npm-debug.log*
+yarn-error.log*
+.DS_Store
+
+# IDEs
+.idea/
+.vs/
